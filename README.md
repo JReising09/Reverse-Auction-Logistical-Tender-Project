@@ -1,2 +1,3 @@
 # Reverse Auction Logistical Tender Project
 
+\ \ This project was a group effort between myself and three other fellow graduate students in the Mathematics program at East Tennessee State University. Together, we investigated optimization techniques for reverse auction tendering processes. This work in particular focused on the logistical tendering for the shipments of processed materials from a chain of chemical plants across the world. Our goals were to come up with various model constraints added to the base cost minimization model in an exploratory manner. For compelte details about our project, please read the "Final Project" PDF. Overall, we compared 4 models with different constraints with total costs ranging between $9.8 million to $11.5 million. 
